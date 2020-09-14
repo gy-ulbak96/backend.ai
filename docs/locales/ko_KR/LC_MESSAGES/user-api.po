@@ -1148,7 +1148,7 @@ msgstr ""
 msgid ""
 "The terminal output is compatible with xterm (including 256-color "
 "support)."
-msgstr ""
+msgstr "터미널 결과는 xterm (e=256-color 지원)과 호환 가능합니다."
 
 #: ../../user-api/exec-stream.rst:149
 msgid "Server-side errors"
