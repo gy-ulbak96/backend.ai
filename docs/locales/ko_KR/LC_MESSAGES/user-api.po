@@ -1107,7 +1107,7 @@ msgid ""
 "is open."
 msgstr ""
 "사용자측 브라우저가 열려있는 동안 주기적으로 ping을 전송하여 이 커널을 계속 유지하려면 "
-(유휴 시간 초과에 의한 자동-종료 방지)이 기능을 사용하십시오. 
+"(유휴 시간 초과에 의한 자동-종료 방지)이 기능을 사용하십시오. 
 
 #: ../../user-api/exec-stream.rst:115
 msgid "Restart"
@@ -1148,7 +1148,7 @@ msgstr ""
 msgid ""
 "The terminal output is compatible with xterm (including 256-color "
 "support)."
-msgstr ""
+msgstr "터미널 결과는 xterm (e=256-color 지원)과 호환 가능합니다."
 
 #: ../../user-api/exec-stream.rst:149
 msgid "Server-side errors"
